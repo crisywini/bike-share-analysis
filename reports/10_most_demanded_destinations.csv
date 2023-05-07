@@ -1,3 +1,4 @@
+s.station_id,s.name,s.lat,s.long,count
 50,Harry Bridges Plaza (Ferry Building),37.79539,-122.3942,2091
 55,Temporary Transbay Terminal (Howard at Beale),37.789757,-122.394646,1937
 51,Embarcadero at Folsom,37.791466,-122.39104,1530
